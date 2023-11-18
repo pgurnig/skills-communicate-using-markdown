@@ -1,5 +1,10 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 # Heading 1
 In arcu cursus euismod quis viverra nibh cras pulvinar. Eu scelerisque felis imperdiet proin fermentum leo. Id velit ut tortor pretium viverra suspendisse potenti nullam. Mollis aliquam ut porttitor leo a diam sollicitudin. Dignissim enim sit amet venenatis urna cursus. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et. Id porta nibh venenatis cras. Pharetra vel turpis nunc eget lorem dolor sed viverra. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Diam quis enim lobortis scelerisque fermentum dui faucibus in. Ut porttitor leo a diam. Cursus turpis massa tincidunt dui. Gravida arcu ac tortor dignissim convallis aenean. Sed ullamcorper morbi tincidunt ornare. Mattis rhoncus urna neque viverra justo nec ultrices. Odio tempor orci dapibus ultrices in. Quam quisque id diam vel quam elementum.
 
